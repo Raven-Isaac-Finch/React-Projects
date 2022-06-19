@@ -7,3 +7,4 @@ Basic Projects with React
 | 02  | [Random User App](https://github.com/Raven-Isaac-Finch/Random-User-App)               | [Live](https://random-user-app-react.netlify.app)                     |
 | 03  | [Tour App](https://github.com/Raven-Isaac-Finch/Tour-App)                             | [Live](https://tour-places-app-react.netlify.app)                     |
 | 04  | [Expense Tracker](https://github.com/Raven-Isaac-Finch/Expense-Tracker)               | [Not Live]()                     |
+| 05  | [Huddle Page](https://github.com/Raven-Isaac-Finch/Styled-Component-Practice)         | [Live](https://styled-component-practice.netlify.app)                 |
