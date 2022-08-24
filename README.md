@@ -10,3 +10,4 @@ Basic Projects with React
 | 05  | [Huddle Page](https://github.com/Raven-Isaac-Finch/Styled-Component-Practice)         | [Live](https://styled-component-practice.netlify.app)                 |
 | 06  | [Movie App](https://github.com/Raven-Isaac-Finch/Movies-App)                          | [Live](https://movie-display-app-react.netlify.app)                   |
 | 07  | [Games App](https://github.com/Raven-Isaac-Finch/Games-App)                           | [Live](https://react-games-displayer.netlify.app)                     |
+| 08  | [Movie App with Firebase](https://github.com/Raven-Isaac-Finch/Movie-App-with-Firebase)| [Live](https://firebase-movies.netlify.app)                          |
